@@ -1,0 +1,22 @@
+#menu {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 600px;
+    height: 250px;
+    opacity: 0.6;
+    padding: 10px;
+    background-color: #51bba4;
+    border: solid black;
+    visibility: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+#toggleMenu {
+    visibility: visible;
+}
+
+.graphFuncInput {
+    max-width: 90px;
+}
