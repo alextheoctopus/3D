@@ -1,0 +1,84 @@
+#showGraph2D {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 8px 14px;
+    margin: 5px 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-image: linear-gradient(to right, #ef9ed0 0%, #9084e2 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+} 
+#showGraph3D {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 8px 14px;
+    margin: 5px 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-image: linear-gradient(to right, #ef9ed0 0%, #9084e2 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+} 
+#showCalculator {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 8px 14px;
+    margin: 5px 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-image: linear-gradient(to right, #ef9ed0 0%, #9084e2 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+} 
+#showHide {
+    text-decoration: none;
+    display: inline-block;
+    color: white;
+    padding: 8px 14px;
+    margin: 5px 5px;
+    border-radius: 10px;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-image: linear-gradient(to right, #ef9ed0 0%, #9084e2 51%, #9EEFE1 100%);
+    background-size: 200% auto;
+    box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+    transition: .5s;
+} 
+
+#surfaces{
+    bottom:100px;
+    left:100px;
+}
+
+.hide {
+    display: none!important;
+}
+.over{
+    border-radius: 10px;
+    border: solid blue 2px;
+    position:absolute;
+    background-color: blueviolet;
+    top:50px;
+    left:50px;
+    width:250px;
+    height:250px;
+    opacity:0.6;
+    padding:10px;
+}
+#addFunction{
+    margin-bottom:10px;
+}

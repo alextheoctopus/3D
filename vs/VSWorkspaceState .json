@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\js",
+    "\\js\\application",
+    "\\js\\application\\calculator",
+    "\\js\\application\\calculator\\universalcalc",
+    "\\js\\application\\calculator\\universalcalc\\entities"
+  ],
+  "SelectedNode": "\\js\\application\\calculator\\universalcalc\\entities\\Matrix.js",
+  "PreviewInSolutionExplorer": false
+}
